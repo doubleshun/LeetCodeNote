@@ -1,5 +1,7 @@
 # \#181 Employees Earning More Than Their Managers
 
+### Easy:star:
+
  Given the `Employee` table, write a SQL query that finds out employees who earn more than their managers. For the above table, Joe is the only employee who earns more than his manager.
 
 ```text

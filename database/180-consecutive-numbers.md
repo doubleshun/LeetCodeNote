@@ -1,5 +1,7 @@
 # \#180 Consecutive Numbers
 
+### Medium:star::star:
+
 Write an SQL query to find all numbers that appear at least three times consecutively.
 
 ```text
