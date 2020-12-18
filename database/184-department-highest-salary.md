@@ -1,5 +1,7 @@
 # \#184 Department Highest Salary
 
+### Medium :star::star:
+
 Write a SQL query to find employees who have the highest salary in each of the departments. For the above tables, your SQL query should return the following rows \(order of rows does not matter\).
 
 ```text

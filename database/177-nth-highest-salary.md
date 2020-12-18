@@ -1,5 +1,7 @@
 # \#177 Nth Highest Salary
 
+### Medium:star::star:
+
  Write a SQL query to get the _n_th highest salary from the `Employee` table.
 
 ```text

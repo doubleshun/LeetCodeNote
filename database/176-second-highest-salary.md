@@ -1,5 +1,7 @@
 # \#176 Second Highest Salary
 
+### Easy:star:
+
  Write a SQL query to get the second highest salary from the `Employee` table.
 
 ```text
