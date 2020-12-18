@@ -1,5 +1,7 @@
 # \#7 Reverse Integer
 
+### Easy:star:
+
 Given a 32-bit signed integer, reverse digits of an integer.
 
 ```text
@@ -29,6 +31,5 @@ class Solution:
                     return 0
                 else:
                     return reverse
-        
 ```
 

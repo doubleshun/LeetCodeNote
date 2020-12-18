@@ -1,5 +1,7 @@
 # \#13 Roman to Integer
 
+### Easy:star:
+
 Given a roman numeral, convert it to an integer.
 
 | Symbol | Value |
