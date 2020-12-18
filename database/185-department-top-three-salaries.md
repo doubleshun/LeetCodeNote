@@ -12,3 +12,5 @@ select Department,Employee,Salary from t
 where d_rank <= 3
 ```
 
+
+

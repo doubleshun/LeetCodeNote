@@ -1,5 +1,7 @@
 # \#14 Longest Common Prefix
 
+### Easy:star:
+
 Write a function to find the longest common prefix string amongst an array of strings.If there is no common prefix, return an empty string `""`.
 
 ```text
@@ -30,9 +32,6 @@ class Solution:
                 else:
                     Need_compare = False
             return common_str
-            
-            
-            
 ```
 
 
