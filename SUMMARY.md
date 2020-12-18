@@ -1,6 +1,6 @@
 # Table of contents
 
-* [關於本筆記](README.md)
+* [關於本筆記:closed\_book:](README.md)
 
 ## Algorithm
 
@@ -30,6 +30,7 @@
 * [\#118 Pascal's Triangle](algorithm/118-pascals-triangle.md)
 * [\#119 Pascal's Triangle II](algorithm/119-pascals-triangle-ii.md)
 * [\#121 Best Time to Buy and Sell Stock](algorithm/121-best-time-to-buy-and-sell-stock.md)
+* [\#125 Valid Palindrome](algorithm/125-valid-palindrome.md)
 
 ## Database
 

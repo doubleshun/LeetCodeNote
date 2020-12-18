@@ -2,7 +2,7 @@
 
 ### Easy:star:
 
- Given an integer array `nums`, find the contiguous subarray \(containing at least one number\) which has the largest sum and return _its sum_.
+Given an integer array `nums`, find the contiguous subarray \(containing at least one number\) which has the largest sum and return _its sum_.
 
 ```text
 class Solution:

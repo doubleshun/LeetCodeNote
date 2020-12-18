@@ -2,7 +2,8 @@
 
 ### Easy:star:
 
-Given a non-negative integer _numRows_, generate the first _numRows_ of Pascal's triangle.  
+Given a non-negative integer _numRows_, generate the first _numRows_ of Pascal's triangle.
+
 In Pascal's triangle, each number is the sum of the two numbers directly above it.
 
 ```text

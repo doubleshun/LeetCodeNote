@@ -2,7 +2,8 @@
 
 ### Easy:star:
 
-Given an integer `rowIndex`, return the `rowIndexth` row of the Pascal's triangle.  
+Given an integer `rowIndex`, return the `rowIndexth` row of the Pascal's triangle.
+
 Notice that the row index starts from **0**.
 
 ```text
