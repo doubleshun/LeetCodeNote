@@ -69,6 +69,7 @@
 * [\#412 Fizz Buzz](algorithm/412-fizz-buzz.md)
 * [\#414 Third Maximum Number](algorithm/414-third-maximum-number.md)
 * [\#455 Assign Cookies](algorithm/455-assign-cookies.md)
+* [\#461 Hamming Distance](algorithm/461-hamming-distance.md)
 
 ## Database
 
