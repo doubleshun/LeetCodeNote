@@ -72,6 +72,7 @@
 * [\#461 Hamming Distance](algorithm/461-hamming-distance.md)
 * [\#463 Island Perimeter](algorithm/463-island-perimeter.md)
 * [\#476 Number Complement](algorithm/476-number-complement.md)
+* [\#482 License Key Formatting](algorithm/482-license-key-formatting.md)
 
 ## Database
 
