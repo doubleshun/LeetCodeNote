@@ -75,6 +75,7 @@
 * [\#482 License Key Formatting](algorithm/482-license-key-formatting.md)
 * [\#485 Max Consecutive Ones](algorithm/485-max-consecutive-ones.md)
 * [\#492 Construct the Rectangle](algorithm/492-construct-the-rectangle.md)
+* [\#496 Next Greater Element I](algorithm/496-next-greater-element-i.md)
 
 ## Database
 
