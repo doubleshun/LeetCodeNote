@@ -75,6 +75,15 @@
 * [\#482 License Key Formatting](algorithm/482-license-key-formatting.md)
 * [\#485 Max Consecutive Ones](algorithm/485-max-consecutive-ones.md)
 * [\#492 Construct the Rectangle](algorithm/492-construct-the-rectangle.md)
+* [\#496 Next Greater Element I](algorithm/496-next-greater-element-i.md)
+* [\#500 Keyboard Row](algorithm/500.-keyboard-row.md)
+* [\#506 Relative Ranks](algorithm/506-relative-ranks.md)
+* [\#507 Perfect Number](algorithm/507-perfect-number.md)
+* [\#509 Fibonacci Number](algorithm/509-fibonacci-number.md)
+* [\#520 Detect Capital](algorithm/520-detect-capital.md)
+* [\#551 Student Attendance Record I](algorithm/551-student-attendance-record-i.md)
+* [\#561 Array Partition I](algorithm/561-array-partition-i.md)
+* [\#575 Distribute Candies](algorithm/575-distribute-candies.md)
 
 ## Database
 
