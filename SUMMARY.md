@@ -76,7 +76,9 @@
 * [\#485 Max Consecutive Ones](algorithm/485-max-consecutive-ones.md)
 * [\#492 Construct the Rectangle](algorithm/492-construct-the-rectangle.md)
 * [\#496 Next Greater Element I](algorithm/496-next-greater-element-i.md)
-* [500. Keyboard Row](algorithm/500.-keyboard-row.md)
+* [\#500 Keyboard Row](algorithm/500.-keyboard-row.md)
+* [\#506 Relative Ranks](algorithm/506-relative-ranks.md)
+* [\#507 Perfect Number](algorithm/507-perfect-number.md)
 
 ## Database
 
