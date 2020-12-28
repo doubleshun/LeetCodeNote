@@ -79,6 +79,10 @@
 * [\#500 Keyboard Row](algorithm/500.-keyboard-row.md)
 * [\#506 Relative Ranks](algorithm/506-relative-ranks.md)
 * [\#507 Perfect Number](algorithm/507-perfect-number.md)
+* [\#509 Fibonacci Number](algorithm/509-fibonacci-number.md)
+* [\#520 Detect Capital](algorithm/520-detect-capital.md)
+* [\#551 Student Attendance Record I](algorithm/551-student-attendance-record-i.md)
+* [\#561 Array Partition I](algorithm/561-array-partition-i.md)
 
 ## Database
 
