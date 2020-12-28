@@ -83,6 +83,7 @@
 * [\#520 Detect Capital](algorithm/520-detect-capital.md)
 * [\#551 Student Attendance Record I](algorithm/551-student-attendance-record-i.md)
 * [\#561 Array Partition I](algorithm/561-array-partition-i.md)
+* [\#575 Distribute Candies](algorithm/575-distribute-candies.md)
 
 ## Database
 
